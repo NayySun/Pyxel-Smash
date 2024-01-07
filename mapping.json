@@ -1,0 +1,34 @@
+{
+    "blue slime": {
+        "up": "KEY_Z",
+        "down": "KEY_S",
+        "left": "KEY_Q",
+        "right": "KEY_D",
+        "attack": "KEY_SPACE",
+        "dash": "None"
+    },
+    "red demon": {
+        "up": "KEY_UP",
+        "down": "KEY_DOWN",
+        "left": "KEY_LEFT",
+        "right": "KEY_RIGHT",
+        "attack": "KEY_KP_0",
+        "dash": "None"
+    },
+    "green slime": {
+        "up": "KEY_I",
+        "down": "KEY_K",
+        "left": "KEY_J",
+        "right": "KEY_L",
+        "attack": "KEY_RETURN",
+        "dash": "None"
+    },
+    "purple demon": {
+        "up": "KEY_T",
+        "down": "KEY_G",
+        "left": "KEY_F",
+        "right": "KEY_H",
+        "attack": "KEY_SEMICOLON",
+        "dash": "None"
+    }
+}

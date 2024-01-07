@@ -1,0 +1,11 @@
+# All the game constants are stocked here
+
+SPEED = 1
+SPEED_CAP = 32
+ATTACK = 10
+ATTACK_CAP = 999
+HEALTH = 70
+HEALTH_CAP = 999
+GRAVITY = 0.5
+SCREEN_LENGTH = 1024
+SCREEN_HEIGHT = 576
