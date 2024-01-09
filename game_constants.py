@@ -1,7 +1,7 @@
 # All the game constants are stocked here
 
 SPEED = 1
-SPEED_CAP = 32
+SPEED_CAP = 16
 ATTACK = 10
 ATTACK_CAP = 999
 HEALTH = 70
