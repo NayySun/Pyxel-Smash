@@ -14,6 +14,7 @@ This project contains 5 essential files:
 To play, you have to launch game.py or use the Game class with your own map and characters.
 You will then get to the home screen, left click and access to the Parameters menu.
 There, you can modify the player number, and only then the character of each player by clicking on the corresponding character icon.
+Each character has its corresponding stats.
 Finally, press start and enjoy the game!
 
 The game is made with pyxel 2.0.4 and python 3.11.5
